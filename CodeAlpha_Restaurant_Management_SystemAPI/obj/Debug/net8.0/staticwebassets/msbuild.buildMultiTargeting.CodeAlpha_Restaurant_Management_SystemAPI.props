@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeAlpha_Restaurant_Management_SystemAPI.props" />
+</Project>
