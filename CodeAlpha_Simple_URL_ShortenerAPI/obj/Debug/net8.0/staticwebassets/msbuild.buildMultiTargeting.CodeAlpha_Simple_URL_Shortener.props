@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeAlpha_Simple_URL_Shortener.props" />
+</Project>
