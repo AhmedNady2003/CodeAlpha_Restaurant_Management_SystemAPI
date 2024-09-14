@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CodeAlpha_Event_Registration_SystemMVC.props" />
+</Project>
